@@ -11,7 +11,7 @@ Real-time coupon recommendation helps brands personalize promotions, reduce mark
 - **Name**: In-Vehicle Coupon Recommendation Dataset  
 - **Samples**: ~12,000 records  
 - **Features**: User demographics, current context (weather, time, location), and coupon details  
-- **Target**: Whether a driver accepted a coupon (`Y = 1`) or rejected it (`Y = 0`)
+- **Target**: Coupon (5 classes) and Expiration 
 
 
 
@@ -29,8 +29,8 @@ Real-time coupon recommendation helps brands personalize promotions, reduce mark
 
 We trained and evaluated several models:
 
-- Logistic Regression (MultiOutputClassifier)
-- Random Forest
+- Dummy Classifier (MultiOutputClassifier)
+- Decision Tree Classifier
 - XGBoost
 - LightGBM
 
