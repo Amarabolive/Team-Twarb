@@ -11,7 +11,7 @@ Real-time coupon recommendation helps brands personalize promotions, reduce mark
 - **Name**: In-Vehicle Coupon Recommendation Dataset  
 - **Samples**: ~12,000 records  
 - **Features**: User demographics, current context (weather, time, location), and coupon details  
-- **Target**: Coupon (5 classes) and Expiration 
+- **Target**: Coupon (5 classes) and Expiration (2 classes)
 
 
 
@@ -34,7 +34,7 @@ We trained and evaluated several models:
 - XGBoost
 - LightGBM
 
-### Final Model: Tuned LightGBM
+### Final Model: Tuned LightGBM 
 
 - **Mean F1-macro**: **0.832**
 - **Variance (±)**: **0.058**
