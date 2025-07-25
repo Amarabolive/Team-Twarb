@@ -1,6 +1,6 @@
-# In-Vehicle Coupon Acceptance Prediction
+# In-Vehicle Coupon Recommendation
 
-This project uses machine learning to predict whether passengers will accept digital coupons based on contextual and demographic factors. It aims to optimize real-time coupon delivery and maximize acceptance rates by analyzing patterns in driver behavior.
+This project uses machine learning to  recommend the most appropriate coupon-expiration combination based on contextual and demographic factors. It aims to optimize real-time coupon delivery and maximize acceptance rates by analyzing patterns in driver behavior.
 
 ## Business Value
 Real-time coupon recommendation helps brands personalize promotions, reduce marketing waste, and increase redemption rates. Automotive platforms can use these predictions to deliver smarter incentives during driving sessions, enhancing customer engagement.
