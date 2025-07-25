@@ -5,6 +5,8 @@ This project uses machine learning to predict whether passengers will accept dig
 ## Business Value
 Real-time coupon recommendation helps brands personalize promotions, reduce marketing waste, and increase redemption rates. Automotive platforms can use these predictions to deliver smarter incentives during driving sessions, enhancing customer engagement.
 
+![1280px-Coupons_](https://github.com/user-attachments/assets/8ed80d9b-cebb-4d4d-92c9-ce7b24227ce2)
+
 ## Dataset
 
 - **Source**: UCI Machine Learning Repository  
