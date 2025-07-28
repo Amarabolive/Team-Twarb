@@ -1,0 +1,12 @@
+timestamp,name,age,gender,occupation,destination,time_of_day,coupon_expiration,weather,temperature,humidity,wind_speed
+2025-07-27 21:39:52,Austin,16,Male,Student,Nairobi,Morning,1d,overcast clouds,17.51,48,2.4
+2025-07-27 22:18:55,Austin,16,Male,Student,Nairobi,Morning,1d,overcast clouds,16.66,50,2.44
+2025-07-27 22:20:32,Austin ,16,Male,student,Nairobi,Morning,1d,overcast clouds,16.66,50,2.44
+2025-07-27 22:24:23,Austin,16,Male,Student,nairobi,Morning,1d,overcast clouds,16.66,50,2.44
+2025-07-27 22:28:06,Austin,16,Male,Student,Mombasa,Morning,1d,overcast clouds,24.19,75,7.93
+2025-07-27 22:37:33,Austin,16,Male,Student,Mombasa,Morning,1d,overcast clouds,24.19,75,7.93
+2025-07-27 23:01:07,Austin,16,Male,Student,Mombasa,Morning,1d,overcast clouds,24.02,76,7.25
+2025-07-28 11:29:25,Austin,16,Male,Student,mombasa,Morning,1d,light rain,26.42,63,9.69
+2025-07-28 11:29:25,Austin,16,Male,Student,mombasa,Morning,1d,light rain,26.42,63,9.69
+2025-07-28 11:29:25,Austin,16,Male,Student,mombasa,Morning,1d,light rain,26.42,63,9.69
+2025-07-28 11:36:01,Austin,16,Male,Student,Mombasa,Morning,,broken clouds,26.6,63,9.86
