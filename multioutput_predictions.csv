@@ -1,0 +1,2523 @@
+predicted_coupon,true_coupon,predicted_expiration,true_expiration
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Restaurant(<20),2h,1d
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(<20),2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Bar,1d,1d
+Carry out & Take away,Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(20-50),1d,1d
+Carry out & Take away,Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Bar,Bar,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,2h
+Bar,Restaurant(20-50),2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Restaurant(<20),1d,2h
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Restaurant(<20),1d,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Restaurant(20-50),2h,2h
+Restaurant(20-50),Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,1d,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,2h,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Carry out & Take away,Coffee House,2h,2h
+Carry out & Take away,Restaurant(<20),2h,2h
+Restaurant(<20),Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Restaurant(20-50),2h,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Bar,1d,1d
+Restaurant(20-50),Bar,1d,1d
+Coffee House,Bar,2h,1d
+Coffee House,Coffee House,2h,1d
+Bar,Restaurant(<20),1d,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Restaurant(<20),1d,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Bar,2h,1d
+Coffee House,Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Coffee House,2h,2h
+Restaurant(20-50),Bar,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(20-50),1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,2h
+Bar,Bar,1d,1d
+Coffee House,Bar,1d,1d
+Restaurant(20-50),Restaurant(<20),2h,2h
+Bar,Bar,2h,2h
+Carry out & Take away,Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Coffee House,1d,2h
+Coffee House,Coffee House,2h,2h
+Bar,Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Coffee House,2h,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Coffee House,1d,2h
+Coffee House,Coffee House,1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Coffee House,1d,2h
+Coffee House,Restaurant(<20),2h,2h
+Restaurant(<20),Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Bar,2h,1d
+Carry out & Take away,Restaurant(<20),1d,2h
+Restaurant(<20),Restaurant(<20),2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Restaurant(20-50),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Coffee House,1d,2h
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Carry out & Take away,1d,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Carry out & Take away,2h,1d
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Bar,1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,1d,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Bar,Bar,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,2h
+Bar,Restaurant(20-50),1d,1d
+Coffee House,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Bar,Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(20-50),2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Bar,Coffee House,1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Restaurant(20-50),2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,2h
+Restaurant(<20),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Carry out & Take away,1d,2h
+Bar,Bar,1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,2h
+Bar,Bar,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,1d
+Bar,Coffee House,1d,1d
+Bar,Restaurant(20-50),1d,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,1d,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,1d
+Restaurant(<20),Carry out & Take away,2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Coffee House,Coffee House,1d,2h
+Carry out & Take away,Restaurant(<20),1d,2h
+Bar,Bar,1d,1d
+Bar,Bar,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Bar,Bar,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Restaurant(<20),2h,2h
+Carry out & Take away,Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Bar,Bar,2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(20-50),1d,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,1d,2h
+Coffee House,Restaurant(<20),2h,2h
+Bar,Bar,1d,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(20-50),2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(20-50),Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,1d,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,2h
+Bar,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Bar,1d,2h
+Carry out & Take away,Coffee House,1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Bar,1d,1d
+Coffee House,Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Restaurant(<20),2h,1d
+Coffee House,Coffee House,1d,2h
+Coffee House,Carry out & Take away,2h,1d
+Bar,Bar,2h,2h
+Bar,Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Coffee House,Bar,2h,1d
+Coffee House,Bar,1d,1d
+Bar,Bar,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,1d
+Coffee House,Carry out & Take away,1d,1d
+Restaurant(<20),Bar,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Restaurant(<20),1d,1d
+Restaurant(<20),Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Bar,2h,1d
+Coffee House,Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Carry out & Take away,2h,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Bar,2h,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,2h
+Carry out & Take away,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Coffee House,2h,1d
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Restaurant(<20),1d,2h
+Bar,Bar,2h,2h
+Coffee House,Coffee House,1d,1d
+Bar,Bar,2h,1d
+Coffee House,Coffee House,1d,2h
+Coffee House,Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Coffee House,1d,1d
+Bar,Restaurant(20-50),2h,2h
+Coffee House,Coffee House,1d,2h
+Carry out & Take away,Carry out & Take away,2h,1d
+Coffee House,Restaurant(<20),1d,2h
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Carry out & Take away,2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Restaurant(<20),1d,2h
+Restaurant(<20),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,2h
+Restaurant(<20),Restaurant(20-50),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Bar,Coffee House,1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Bar,Coffee House,1d,2h
+Carry out & Take away,Coffee House,1d,1d
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Coffee House,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Restaurant(20-50),2h,2h
+Carry out & Take away,Coffee House,1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Restaurant(<20),1d,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Restaurant(<20),1d,2h
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Coffee House,1d,2h
+Coffee House,Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Coffee House,1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Restaurant(<20),1d,2h
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Restaurant(<20),2h,1d
+Bar,Restaurant(20-50),2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Restaurant(<20),1d,2h
+Restaurant(<20),Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,1d,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,1d,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Restaurant(<20),1d,2h
+Bar,Bar,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Bar,1d,1d
+Bar,Bar,2h,2h
+Coffee House,Restaurant(<20),2h,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Restaurant(<20),1d,2h
+Coffee House,Coffee House,1d,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Bar,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Restaurant(20-50),Bar,2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,1d,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Carry out & Take away,2h,1d
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,1d,2h
+Restaurant(<20),Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,2h
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Bar,Bar,2h,2h
+Coffee House,Bar,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Coffee House,Carry out & Take away,2h,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Bar,1d,1d
+Bar,Bar,2h,2h
+Coffee House,Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,1d,2h
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Coffee House,Restaurant(20-50),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,2h,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Coffee House,1d,1d
+Restaurant(20-50),Restaurant(<20),1d,1d
+Bar,Bar,1d,2h
+Coffee House,Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Bar,2h,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Bar,2h,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Restaurant(20-50),1d,2h
+Bar,Bar,1d,1d
+Coffee House,Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Bar,1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Restaurant(20-50),2h,1d
+Bar,Coffee House,1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Bar,Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,2h,2h
+Restaurant(<20),Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,2h
+Bar,Coffee House,1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Restaurant(20-50),2h,2h
+Bar,Restaurant(<20),1d,2h
+Coffee House,Carry out & Take away,2h,1d
+Coffee House,Coffee House,2h,2h
+Bar,Coffee House,1d,1d
+Carry out & Take away,Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,2h,2h
+Bar,Bar,2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Coffee House,1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Restaurant(<20),2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,1d,1d
+Bar,Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Restaurant(20-50),2h,1d
+Coffee House,Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Coffee House,1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Restaurant(20-50),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Coffee House,1d,2h
+Restaurant(<20),Coffee House,2h,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,1d
+Bar,Bar,2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Carry out & Take away,1d,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Restaurant(<20),1d,1d
+Carry out & Take away,Restaurant(<20),1d,1d
+Bar,Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Restaurant(<20),Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Coffee House,1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Carry out & Take away,2h,1d
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Coffee House,2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Coffee House,Restaurant(<20),1d,2h
+Coffee House,Coffee House,1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(20-50),Bar,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Coffee House,2h,1d
+Coffee House,Restaurant(20-50),1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Bar,2h,1d
+Carry out & Take away,Coffee House,2h,2h
+Restaurant(<20),Carry out & Take away,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Coffee House,1d,2h
+Bar,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Bar,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,2h
+Restaurant(20-50),Carry out & Take away,2h,2h
+Bar,Coffee House,1d,2h
+Coffee House,Restaurant(20-50),2h,2h
+Coffee House,Carry out & Take away,1d,2h
+Coffee House,Carry out & Take away,2h,2h
+Coffee House,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Restaurant(<20),1d,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Coffee House,Coffee House,1d,2h
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Restaurant(<20),2h,2h
+Restaurant(<20),Coffee House,2h,1d
+Restaurant(<20),Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),2h,1d
+Coffee House,Coffee House,1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Carry out & Take away,2h,1d
+Bar,Bar,1d,1d
+Bar,Bar,2h,2h
+Coffee House,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,1d
+Bar,Bar,1d,1d
+Restaurant(20-50),Bar,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Restaurant(<20),1d,1d
+Coffee House,Bar,1d,1d
+Restaurant(20-50),Coffee House,1d,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,2h,2h
+Coffee House,Coffee House,1d,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Bar,Bar,1d,1d
+Bar,Bar,2h,2h
+Restaurant(<20),Coffee House,1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Coffee House,1d,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Bar,Bar,1d,2h
+Coffee House,Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Coffee House,1d,1d
+Bar,Coffee House,1d,1d
+Restaurant(<20),Carry out & Take away,2h,2h
+Coffee House,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Coffee House,1d,2h
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Restaurant(<20),2h,2h
+Coffee House,Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,1d
+Bar,Bar,2h,2h
+Coffee House,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Bar,2h,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(20-50),2h,1d
+Coffee House,Coffee House,1d,1d
+Bar,Bar,2h,2h
+Coffee House,Carry out & Take away,2h,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,2h,2h
+Coffee House,Coffee House,2h,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Bar,2h,1d
+Bar,Bar,2h,2h
+Bar,Bar,2h,2h
+Bar,Bar,1d,1d
+Restaurant(20-50),Coffee House,2h,2h
+Bar,Bar,1d,1d
+Coffee House,Restaurant(20-50),2h,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Restaurant(20-50),2h,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,1d,1d
+Bar,Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Bar,1d,1d
+Restaurant(<20),Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Carry out & Take away,1d,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Carry out & Take away,2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Restaurant(20-50),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Carry out & Take away,2h,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Bar,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Restaurant(<20),2h,2h
+Bar,Coffee House,1d,1d
+Coffee House,Restaurant(20-50),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Restaurant(20-50),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(<20),2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Coffee House,Bar,2h,1d
+Coffee House,Coffee House,2h,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Bar,2h,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Carry out & Take away,1d,2h
+Carry out & Take away,Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Bar,2h,1d
+Bar,Coffee House,1d,2h
+Coffee House,Coffee House,1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,2h
+Restaurant(<20),Bar,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Coffee House,1d,1d
+Bar,Coffee House,1d,1d
+Bar,Restaurant(20-50),2h,2h
+Coffee House,Coffee House,1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Carry out & Take away,Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Restaurant(20-50),2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),2h,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,2h
+Bar,Bar,1d,1d
+Bar,Bar,1d,1d
+Coffee House,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Bar,Coffee House,1d,2h
+Carry out & Take away,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Carry out & Take away,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Bar,2h,2h
+Restaurant(<20),Carry out & Take away,2h,2h
+Bar,Restaurant(<20),1d,2h
+Restaurant(<20),Carry out & Take away,1d,1d
+Coffee House,Bar,2h,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Restaurant(<20),Coffee House,1d,2h
+Coffee House,Coffee House,2h,2h
+Bar,Bar,2h,2h
+Bar,Bar,1d,1d
+Bar,Bar,1d,1d
+Coffee House,Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Restaurant(<20),1d,2h
+Bar,Coffee House,1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,1d
+Carry out & Take away,Restaurant(<20),1d,1d
+Bar,Bar,2h,2h
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Carry out & Take away,2h,1d
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(20-50),1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Bar,Restaurant(20-50),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Coffee House,1d,1d
+Coffee House,Bar,2h,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Bar,Restaurant(20-50),1d,1d
+Bar,Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Bar,Coffee House,1d,2h
+Bar,Coffee House,1d,2h
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Carry out & Take away,1d,1d
+Restaurant(20-50),Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(20-50),2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Coffee House,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,1d
+Restaurant(20-50),Coffee House,2h,2h
+Coffee House,Coffee House,1d,2h
+Restaurant(<20),Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Carry out & Take away,2h,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Coffee House,1d,2h
+Restaurant(<20),Restaurant(<20),2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(20-50),1d,1d
+Coffee House,Carry out & Take away,2h,2h
+Carry out & Take away,Bar,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Carry out & Take away,Carry out & Take away,1d,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Restaurant(20-50),2h,2h
+Bar,Coffee House,1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,1d
+Restaurant(20-50),Coffee House,1d,2h
+Carry out & Take away,Carry out & Take away,1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Coffee House,2h,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Coffee House,1d,2h
+Restaurant(<20),Coffee House,2h,1d
+Bar,Coffee House,1d,2h
+Bar,Bar,1d,1d
+Coffee House,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,1d
+Carry out & Take away,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Carry out & Take away,1d,1d
+Restaurant(<20),Bar,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Bar,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Coffee House,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Restaurant(20-50),1d,2h
+Coffee House,Bar,2h,1d
+Carry out & Take away,Carry out & Take away,1d,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(20-50),Bar,1d,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Coffee House,2h,1d
+Restaurant(20-50),Restaurant(<20),1d,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,1d,2h
+Restaurant(<20),Coffee House,1d,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Carry out & Take away,2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Coffee House,Coffee House,1d,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Bar,2h,1d
+Coffee House,Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Restaurant(<20),Carry out & Take away,2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Bar,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Restaurant(20-50),Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,1d,1d
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Bar,Bar,1d,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Restaurant(20-50),2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,2h,2h
+Restaurant(20-50),Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Bar,Bar,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Bar,2h,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,2h,2h
+Coffee House,Coffee House,2h,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Bar,2h,1d
+Restaurant(<20),Bar,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Carry out & Take away,1d,1d
+Bar,Restaurant(<20),1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),2h,1d
+Coffee House,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Restaurant(20-50),2h,1d
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Restaurant(<20),Coffee House,1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Coffee House,Carry out & Take away,2h,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Bar,2h,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Coffee House,Restaurant(<20),1d,1d
+Carry out & Take away,Coffee House,1d,1d
+Coffee House,Coffee House,1d,2h
+Bar,Coffee House,1d,1d
+Coffee House,Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Bar,1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Bar,Restaurant(<20),1d,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Coffee House,1d,2h
+Bar,Bar,2h,1d
+Bar,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Coffee House,2h,2h
+Coffee House,Bar,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Coffee House,2h,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Restaurant(<20),Restaurant(20-50),1d,1d
+Coffee House,Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Coffee House,Coffee House,2h,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Carry out & Take away,2h,1d
+Coffee House,Coffee House,2h,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Restaurant(<20),2h,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Restaurant(<20),Restaurant(20-50),2h,1d
+Coffee House,Coffee House,1d,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(20-50),1d,1d
+Restaurant(<20),Coffee House,2h,1d
+Coffee House,Restaurant(<20),1d,2h
+Coffee House,Restaurant(<20),2h,2h
+Bar,Bar,2h,2h
+Coffee House,Restaurant(20-50),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Carry out & Take away,2h,2h
+Bar,Bar,2h,2h
+Restaurant(20-50),Bar,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,1d
+Bar,Bar,1d,1d
+Bar,Restaurant(<20),1d,2h
+Coffee House,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,1d
+Bar,Coffee House,1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Coffee House,Bar,2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Bar,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Coffee House,Restaurant(20-50),1d,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Coffee House,1d,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Bar,1d,2h
+Restaurant(<20),Carry out & Take away,2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Bar,Bar,1d,1d
+Bar,Coffee House,1d,1d
+Coffee House,Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(20-50),2h,1d
+Coffee House,Coffee House,2h,2h
+Bar,Restaurant(20-50),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Coffee House,1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Carry out & Take away,1d,1d
+Bar,Bar,2h,1d
+Restaurant(<20),Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Restaurant(20-50),2h,2h
+Restaurant(<20),Coffee House,1d,1d
+Restaurant(<20),Coffee House,1d,1d
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Coffee House,1d,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Restaurant(20-50),1d,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Bar,2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Restaurant(20-50),2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Bar,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Carry out & Take away,2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Coffee House,2h,2h
+Coffee House,Restaurant(20-50),1d,2h
+Carry out & Take away,Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Restaurant(20-50),Bar,1d,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Coffee House,2h,2h
+Restaurant(<20),Coffee House,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Coffee House,1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(20-50),2h,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Coffee House,1d,2h
+Restaurant(20-50),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Restaurant(<20),2h,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,2h
+Restaurant(20-50),Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Bar,2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Coffee House,1d,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Coffee House,Carry out & Take away,1d,1d
+Coffee House,Bar,2h,1d
+Coffee House,Restaurant(20-50),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Coffee House,1d,1d
+Coffee House,Coffee House,1d,2h
+Bar,Restaurant(<20),1d,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Bar,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Restaurant(20-50),2h,2h
+Coffee House,Coffee House,1d,2h
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,1d
+Bar,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Coffee House,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,1d,2h
+Coffee House,Restaurant(<20),1d,1d
+Coffee House,Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Coffee House,Restaurant(<20),2h,2h
+Coffee House,Carry out & Take away,2h,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Coffee House,1d,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Coffee House,Coffee House,1d,2h
+Bar,Restaurant(<20),1d,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Bar,Bar,1d,1d
+Carry out & Take away,Coffee House,1d,1d
+Coffee House,Restaurant(20-50),2h,2h
+Coffee House,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Bar,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,1d
+Bar,Bar,1d,1d
+Restaurant(20-50),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Bar,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Carry out & Take away,2h,2h
+Restaurant(<20),Bar,1d,2h
+Bar,Restaurant(20-50),1d,1d
+Bar,Bar,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(20-50),Bar,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Coffee House,1d,2h
+Coffee House,Coffee House,1d,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(20-50),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Bar,2h,1d
+Carry out & Take away,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,1d
+Coffee House,Restaurant(<20),1d,2h
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Bar,2h,1d
+Bar,Coffee House,1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Bar,2h,1d
+Coffee House,Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Coffee House,2h,2h
+Coffee House,Coffee House,1d,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,2h
+Coffee House,Coffee House,2h,2h
+Bar,Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Coffee House,Restaurant(20-50),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Restaurant(<20),1d,1d
+Bar,Restaurant(20-50),2h,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Bar,Bar,2h,2h
+Restaurant(<20),Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Bar,2h,1d
+Coffee House,Coffee House,1d,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Restaurant(<20),Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(20-50),2h,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Restaurant(<20),Restaurant(<20),2h,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Restaurant(<20),1d,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Restaurant(20-50),2h,1d
+Coffee House,Carry out & Take away,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Coffee House,1d,2h
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Coffee House,Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Bar,2h,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,2h
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Coffee House,2h,2h
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,2h,1d
+Bar,Bar,2h,2h
+Bar,Bar,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Restaurant(<20),1d,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Bar,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Carry out & Take away,2h,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Restaurant(20-50),2h,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Coffee House,1d,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Carry out & Take away,Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Bar,2h,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Coffee House,2h,2h
+Bar,Bar,2h,2h
+Bar,Bar,1d,1d
+Restaurant(20-50),Coffee House,1d,1d
+Restaurant(<20),Coffee House,2h,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,1d,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,1d
+Carry out & Take away,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Restaurant(20-50),Restaurant(<20),1d,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Coffee House,1d,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Bar,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,2h,1d
+Bar,Restaurant(<20),1d,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Carry out & Take away,Restaurant(<20),1d,2h
+Coffee House,Restaurant(<20),1d,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,1d,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Carry out & Take away,2h,1d
+Carry out & Take away,Restaurant(<20),2h,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Carry out & Take away,2h,1d
+Bar,Bar,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Bar,2h,2h
+Bar,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,1d,2h
+Restaurant(<20),Coffee House,2h,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Restaurant(20-50),2h,2h
+Restaurant(<20),Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Restaurant(20-50),1d,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Restaurant(<20),1d,2h
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Coffee House,Coffee House,1d,2h
+Restaurant(<20),Restaurant(<20),2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,2h
+Restaurant(<20),Carry out & Take away,2h,2h
+Restaurant(<20),Carry out & Take away,2h,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(20-50),Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,1d,2h
+Coffee House,Bar,2h,1d
+Restaurant(<20),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Restaurant(<20),1d,1d
+Restaurant(<20),Coffee House,2h,1d
+Restaurant(<20),Bar,2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Carry out & Take away,Coffee House,2h,2h
+Restaurant(<20),Carry out & Take away,2h,1d
+Coffee House,Bar,1d,1d
+Coffee House,Restaurant(<20),2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Bar,Coffee House,1d,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Restaurant(20-50),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Carry out & Take away,2h,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Restaurant(<20),Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,1d,2h
+Bar,Bar,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Coffee House,1d,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Bar,2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Bar,2h,1d
+Restaurant(<20),Restaurant(20-50),1d,1d
+Bar,Bar,1d,1d
+Coffee House,Restaurant(<20),1d,2h
+Carry out & Take away,Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Bar,2h,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(<20),1d,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Coffee House,1d,1d
+Bar,Coffee House,2h,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Coffee House,Carry out & Take away,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,2h
+Restaurant(<20),Bar,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,2h,1d
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Restaurant(<20),Carry out & Take away,2h,2h
+Coffee House,Bar,2h,1d
+Coffee House,Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(20-50),1d,1d
+Carry out & Take away,Restaurant(20-50),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(20-50),2h,1d
+Bar,Coffee House,1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(20-50),1d,1d
+Coffee House,Bar,2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Bar,Coffee House,1d,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Bar,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,2h
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,1d,2h
+Coffee House,Restaurant(20-50),1d,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Coffee House,1d,2h
+Restaurant(<20),Coffee House,1d,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Coffee House,2h,2h
+Bar,Bar,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,2h
+Carry out & Take away,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Coffee House,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Restaurant(20-50),1d,1d
+Restaurant(<20),Bar,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,1d
+Coffee House,Coffee House,1d,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Carry out & Take away,Coffee House,1d,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,2h,2h
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Bar,Bar,2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Coffee House,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Restaurant(20-50),2h,2h
+Coffee House,Bar,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,1d,2h
+Coffee House,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Carry out & Take away,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Bar,Bar,1d,1d
+Restaurant(<20),Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Restaurant(<20),Carry out & Take away,1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Restaurant(20-50),2h,2h
+Bar,Bar,1d,1d
+Coffee House,Coffee House,2h,1d
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,2h,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Carry out & Take away,2h,2h
+Bar,Restaurant(<20),1d,2h
+Bar,Restaurant(<20),1d,2h
+Coffee House,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Bar,Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),2h,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,1d,1d
+Coffee House,Coffee House,2h,2h
+Coffee House,Coffee House,1d,1d
+Bar,Bar,1d,1d
+Coffee House,Coffee House,1d,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,1d
+Bar,Bar,1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(20-50),Restaurant(20-50),2h,2h
+Coffee House,Coffee House,2h,2h
+Bar,Coffee House,2h,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Bar,2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Coffee House,2h,2h
+Bar,Bar,1d,2h
+Restaurant(20-50),Bar,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Coffee House,Bar,2h,1d
+Carry out & Take away,Carry out & Take away,2h,2h
+Restaurant(20-50),Restaurant(20-50),1d,1d
+Bar,Carry out & Take away,1d,2h
+Coffee House,Coffee House,2h,2h
+Restaurant(<20),Restaurant(<20),1d,2h
+Coffee House,Coffee House,2h,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Bar,Bar,1d,1d
+Bar,Bar,1d,1d
+Coffee House,Restaurant(<20),1d,2h
+Carry out & Take away,Carry out & Take away,2h,2h
+Coffee House,Restaurant(20-50),2h,2h
+Restaurant(<20),Coffee House,1d,1d
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Carry out & Take away,Coffee House,1d,1d
+Bar,Restaurant(<20),1d,1d
+Coffee House,Coffee House,2h,2h
+Bar,Carry out & Take away,2h,2h
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
+Restaurant(<20),Restaurant(<20),1d,1d
+Restaurant(<20),Coffee House,2h,1d
+Restaurant(<20),Restaurant(20-50),1d,1d
+Carry out & Take away,Carry out & Take away,1d,1d
+Restaurant(<20),Restaurant(<20),2h,2h
